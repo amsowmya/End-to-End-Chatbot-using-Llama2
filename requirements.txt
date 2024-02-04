@@ -1,0 +1,8 @@
+pandas
+ctransformers==0.2.5 # to load the quantised model. and if you want to use langchain you shld use ctransformer
+sentence-transformers==2.2.2
+pinecone-client==2.2.4
+langchain==0.0.225
+flask 
+pypdf
+
